@@ -1,0 +1,15 @@
+/home/luumiz/onsharp/bin/Debug/net6.0/onsharp
+/home/luumiz/onsharp/bin/Debug/net6.0/onsharp.deps.json
+/home/luumiz/onsharp/bin/Debug/net6.0/onsharp.runtimeconfig.json
+/home/luumiz/onsharp/bin/Debug/net6.0/onsharp.dll
+/home/luumiz/onsharp/bin/Debug/net6.0/onsharp.pdb
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.csproj.AssemblyReference.cache
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.AssemblyInfoInputs.cache
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.AssemblyInfo.cs
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.csproj.CoreCompileInputs.cache
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.dll
+/home/luumiz/onsharp/obj/Debug/net6.0/refint/onsharp.dll
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.pdb
+/home/luumiz/onsharp/obj/Debug/net6.0/onsharp.genruntimeconfig.cache
+/home/luumiz/onsharp/obj/Debug/net6.0/ref/onsharp.dll
